@@ -1,35 +1,47 @@
-Mario Cesar Vieira Alves
-Desenvolvedor de Software Multiplataforma 
+# Mario Cesar Vieira Alves
+**Desenvolvedor de Software Multiplataforma 
 
-Olá! Sou um desenvolvedor focado em construir soluções que unem o mundo físico ao digital. Atualmente, curso Desenvolvimento de Software Multiplataforma na FATEC Jacareí e atuo na área de TI.
+Olá! Sou um desenvolvedor focado em construir soluções que unem o mundo físico ao digital. Atualmente, curso Desenvolvimento de Software Multiplataforma na **FATEC Jacareí** e atuo na área de TI.
 
-Meu foco principal é o ecossistema JavaScript/TypeScript.
+Meu foco principal é o ecossistema **JavaScript/TypeScript**.
 
-🚀 Projetos em Destaque
-NexDose - Gestão Inteligente de Medicamentos
-Uma solução HealthTech que integra hardware e software para auxiliar idosos na gestão de medicamentos.
+---
 
-Tecnologias: ESP32, Motores de Passo/Servo, React Native, Node.js.
+### 🚀 Projetos em Destaque
 
-Destaque: Sistema IoT que automatiza a dosagem correta, garantindo segurança e adesão ao tratamento.
+*   **[NexDose - Gestão Inteligente de Medicamentos](https://github.com/MarioC3sar)**
+    Uma solução **HealthTech** que integra hardware (IoT) e software para auxiliar idosos na gestão de múltiplos medicamentos.
+    *   **Tecnologias:** ESP32, Motores de Passo/Servo, React Native, Node.js.
+    *   **Destaque:** Sistema que automatiza a dosagem correta, garantindo que o paciente certo tome a dose certa na hora certa.
 
-SkyHawk - Visualização de Metadados de Satélites
-Plataforma web centralizada para catalogar e visualizar metadados de satélites gratuitos.
+*   **[SkyHawk - Visualização de Metadados de Satélites](https://github.com/hallwaytechgrupo/SkyHawk)**
+    Plataforma web centralizada e intuitiva para catalogar e visualizar metadados de satélites gratuitos.
+    *   **Tecnologias:** React, TypeScript, APIs Geoespaciais, Mapbox.
+    *   **Destaque:** Mapa interativo que permite a comparação analítica de produtos geoespaciais para simplificar a escolha de dados para diversas aplicações.
 
-Tecnologias: React, TypeScript, APIs Geoespaciais, Mapbox.
+*   **[Boitatá - HeatSentinel](https://github.com/hallwaytechgrupo/Boitata)**
+    Aplicação para monitoramento de áreas queimadas, focos de calor e risco de fogo no Brasil, inspirada no Programa Queimadas do INPE.
+    *   **Tecnologias:** React, Node.js, Visualização de Dados (Gráficos e Mapas).
+    *   **Destaque:** Ferramenta interativa para gestão ambiental e formulação de políticas públicas baseada em dados geoespaciais detalhados.
 
-Destaque: Mapa interativo que permite a comparação analítica de produtos geoespaciais para diversos pontos do globo.
+*   **[ABP Scrum Guide](https://github.com/hallwaytechgrupo/ABP-2024-2)**
+    Aplicação web instrutiva dedicada ao ensino e disseminação de metodologias ágeis (SCRUM) no contexto de desenvolvimento de software.
+    *   **Tecnologias:** React, TypeScript, Markdown.
+    *   **Destaque:** Central de instruções para facilitar a implementação de processos ágeis em times de tecnologia.
 
-Boitatá - HeatSentinel
-Aplicação inspirada no Programa Queimadas do INPE para monitoramento de focos de calor no Brasil.
+---
 
-Tecnologias: React, Node.js, Visualização de Dados (Gráficos e Mapas).
+### 🛠️ Habilidades Técnicas
 
-Destaque: Transformação de dados geoespaciais complexos em informações acessíveis para políticas públicas ambientais.
+*   **Linguagens:** TypeScript, JavaScript, C.
+*   **Frontend:** React, React Native (Expo), Styled Components.
+*   **Backend:** Node.js, Express.
+*   **IoT & Hardware:**  ESP32.
 
-ABP Scrum Guide
-Aplicação web instrutiva focada na disseminação de metodologias ágeis (Scrum) especificamente para o setor de TI.
+---
 
-Tecnologias: React, TypeScript, Markdown.
 
-Destaque: Guia interativo para implementação de processos ágeis em times de desenvolvimento.
+
+*   **GitHub:** [github.com/MarioC3sar](https://github.com/MarioC3sar)
+  
+
