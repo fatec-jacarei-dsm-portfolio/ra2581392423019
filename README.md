@@ -38,8 +38,10 @@ Aqui estão os principais sistemas que venho desenvolvendo:
       <p>Sistema integrado com IoT focado na dispensação automatizada de medicamentos e no cuidado inteligente de idosos.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔌 RackHack</h3>
-      <p>Aplicação voltada para o gerenciamento de infraestrutura, permitindo o mapeamento de racks e exportação de portas de switches de data centers.</p>
+      <h3>BOitatá</h3>
+      <p>O Boitatá - HeatSentinel é uma aplicação web desenvolvida para exibir informações sobre áreas queimadas, focos de calor e risco de fogo no Brasil. Inspirado no Programa Queimadas do INPE, o projeto visa fornecer uma ferramenta acessível e interativa para a gestão ambiental e a formulação de políticas públicas.
+
+O sistema utiliza dados geoespaciais para gerar visualizações detalhadas, como gráficos e mapas interativos, permitindo que os usuários identifiquem áreas críticas e tomem decisões informadas.</p>
     </td>
   </tr>
   <tr>
