@@ -33,21 +33,21 @@ Aqui estão os principais sistemas que venho desenvolvendo:
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>💊 NexDose</h3>
+      <h3><a href="https://github.com/hallwaytechgrupo/NexDose">💊 NexDose</a></h3>
       <p>Sistema integrado com IoT focado na dispensação automatizada de medicamentos e no cuidado inteligente de idosos.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 Boitatá (HeatSentinel)</h3>
+      <h3><a href="https://github.com/hallwaytechgrupo/Boitata">🔥 Boitatá (HeatSentinel)</a></h3>
       <p>Aplicação web interativa inspirada no INPE para monitoramento de áreas queimadas no Brasil. Utiliza dados geoespaciais para gerar mapas e gráficos focados na gestão ambiental.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 App Scholar</h3>
+      <h3><a href="https://github.com/MarioC3sar/PDM1_App_Scholar">🎓 App Scholar</a></h3>
       <p>Solução otimizada com foco em gestão e acompanhamento acadêmico.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ SkyHawk (SatMetrics)</h3>
+      <h3><a href="https://github.com/hallwaytechgrupo/SkyHawk">🛰️ SkyHawk (SatMetrics)</a></h3>
       <p>Aplicação web avançada para visualização, análise e comparação de dados geoespaciais e de satélites.</p>
     </td>
   </tr>
@@ -65,5 +65,5 @@ Além de construir interfaces, estou explorando ativamente os fundamentos de har
   <h3>📫 Como me encontrar</h3>
   <a href="mailto:95mces@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/mario-cesar-98162a203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-   <a href="https://github.com/MarioC3sar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/MarioC3sar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
