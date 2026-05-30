@@ -1,28 +1,69 @@
-# Olá! Eu sou o Mario Cesar 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Mario%20Cesar&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma&descAlignY=55&descAlign=50" alt="Banner Mario" />
+</div>
 
-Sou um desenvolvedor focado no ecossistema JavaScript e TypeScript, com 2 anos de experiência prévia em suporte e manutenção de TI. Atualmente, estou no 4º semestre do curso de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**.
+<br>
 
-Gosto de transitar entre a construção de interfaces modernas na web e o entendimento profundo de como a máquina funciona por baixo dos panos — desde a arquitetura de CPU/RAM até o desenvolvimento em C.
+## 👨‍💻 Sobre mim
+
+Atualmente no 4º semestre de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**. Tenho um background sólido com 2 anos de experiência em suporte e manutenção de TI, o que me deu uma visão profunda de como as coisas funcionam "por baixo dos panos". Gosto de unir o desenvolvimento moderno na web com os fundamentos e a arquitetura de hardware.
+
+<div align="center">
 
 ### 🛠️ Minha Stack e Ferramentas
 
-*   **Front-end & Mobile:** React, React Native
-*   **Back-end:** Node.js, TypeScript
-*   **Fundamentos:** C, Arquitetura de Computadores
-*   **Ambiente de Trabalho:** Linux Ubuntu (Fish + Starship), WebStorm, CLion
+<!-- Badges gerados pelo Shields.io -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white" />
 
-### 🚀 Projetos em Destaque
+</div>
 
-Aqui estão alguns dos sistemas que venho desenvolvendo:
+<br>
 
-*   💊 **NexDose:** Sistema integrado com IoT para dispensação de medicamentos e cuidado de idosos.
-*   🔌 **RackHack:** Aplicação voltada para o gerenciamento e mapeamento de racks e switches de data centers.
-*   🎓 **App Scholar:** Solução para gestão acadêmica.
-*   🛰️ **SkyHawk (SatMetrics):** Aplicação web para visualização e comparação de dados geoespaciais e de satélites.
+## 🚀 Projetos em Destaque
 
-### 📚 O que estou estudando atualmente
-Além de aprofundar meus conhecimentos em React e Node.js, estou explorando os fundamentos de hardware e a lógica de baixo nível dos computadores, baseando meus estudos em materiais como o livro *Code* de Charles Petzold.
+Aqui estão os principais sistemas que venho desenvolvendo:
 
-### 📫 Como me encontrar
-*   **LinkedIn:** [Seu Link do LinkedIn aqui]
-*   **E-mail:** [Seu E-mail aqui]
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 NexDose</h3>
+      <p>Sistema integrado com IoT focado na dispensação automatizada de medicamentos e no cuidado inteligente de idosos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 RackHack</h3>
+      <p>Aplicação voltada para o gerenciamento de infraestrutura, permitindo o mapeamento de racks e exportação de portas de switches de data centers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 App Scholar</h3>
+      <p>Solução otimizada com foco em gestão e acompanhamento acadêmico.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ SkyHawk (SatMetrics)</h3>
+      <p>Aplicação web avançada para visualização, análise e comparação de dados geoespaciais e de satélites.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📚 Aprendizado Contínuo
+
+Além de construir interfaces, estou explorando ativamente os fundamentos de hardware, a lógica de baixo nível dos processadores e a arquitetura de memória, utilizando como base a obra *Code* de Charles Petzold.
+
+<br>
+
+<div align="center">
+  <h3>📫 Como me encontrar</h3>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
