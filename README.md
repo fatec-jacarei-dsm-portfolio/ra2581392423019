@@ -22,7 +22,6 @@ Atualmente no 4º semestre de **Desenvolvimento de Software Multiplataforma na F
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
 
-
 </div>
 
 <br>
@@ -38,10 +37,8 @@ Aqui estão os principais sistemas que venho desenvolvendo:
       <p>Sistema integrado com IoT focado na dispensação automatizada de medicamentos e no cuidado inteligente de idosos.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>BOitatá</h3>
-      <p>O Boitatá - HeatSentinel é uma aplicação web desenvolvida para exibir informações sobre áreas queimadas, focos de calor e risco de fogo no Brasil. Inspirado no Programa Queimadas do INPE, o projeto visa fornecer uma ferramenta acessível e interativa para a gestão ambiental e a formulação de políticas públicas.
-
-O sistema utiliza dados geoespaciais para gerar visualizações detalhadas, como gráficos e mapas interativos, permitindo que os usuários identifiquem áreas críticas e tomem decisões informadas.</p>
+      <h3>🔥 Boitatá (HeatSentinel)</h3>
+      <p>Aplicação web interativa inspirada no INPE para monitoramento de áreas queimadas no Brasil. Utiliza dados geoespaciais para gerar mapas e gráficos focados na gestão ambiental.</p>
     </td>
   </tr>
   <tr>
