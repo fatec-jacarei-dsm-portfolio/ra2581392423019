@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Mario%20Cesar&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma&descAlignY=55&descAlign=50" alt="Banner Mario" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=Mário%20César&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma&descAlignY=55&descAlign=50" alt="Banner Mario" />
 </div>
 
 <br>
