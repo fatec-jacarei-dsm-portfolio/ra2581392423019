@@ -57,7 +57,7 @@ Aqui estão os principais sistemas que venho desenvolvendo:
 
 ## 📚 Aprendizado Contínuo
 
-Além de construir interfaces, estou explorando ativamente os fundamentos de hardware, a lógica de baixo nível dos processadores e a arquitetura de memória, utilizando como base a obra *Code* de Charles Petzold.
+Expandindo constantemente meus conhecimentos. Além das tecnologias de mercado, estudo ativamente arquitetura de computadores, internals de memória/processadores e lógica de baixo nível, tendo a obra *Code* de Charles Petzold como minha base teórica principal.
 
 <br>
 
