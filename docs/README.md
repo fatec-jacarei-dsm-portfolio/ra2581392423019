@@ -1,47 +1,69 @@
-# Mario Cesar Vieira Alves
-**Desenvolvedor de Software Multiplataforma 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Mário%20César&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Multiplataforma&descAlignY=55&descAlign=50" alt="Banner Mario" />
+</div>
 
-Olá! Sou um desenvolvedor focado em construir soluções que unem o mundo físico ao digital. Atualmente, curso Desenvolvimento de Software Multiplataforma na **FATEC Jacareí** e atuo na área de TI.
+<br>
 
-Meu foco principal é o ecossistema **JavaScript/TypeScript**.
+## 👨‍💻 Sobre mim
 
----
+Estudante de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**. Tenho um background sólido com 2 anos de experiência em suporte e manutenção de TI, o que me deu uma visão profunda de como as coisas funcionam "por baixo dos panos". Gosto de unir o desenvolvimento moderno na web com os fundamentos e a arquitetura de hardware.
 
-### 🚀 Projetos em Destaque
+<div align="center">
 
-*   **[NexDose - Gestão Inteligente de Medicamentos](https://github.com/MarioC3sar)**
-    Uma solução **HealthTech** que integra hardware (IoT) e software para auxiliar idosos na gestão de múltiplos medicamentos.
-    *   **Tecnologias:** ESP32, Motores de Passo/Servo, React Native, Node.js.
-    *   **Destaque:** Sistema que automatiza a dosagem correta, garantindo que o paciente certo tome a dose certa na hora certa.
+### 🛠️ Minha Stack e Ferramentas
 
-*   **[SkyHawk - Visualização de Metadados de Satélites](https://github.com/hallwaytechgrupo/SkyHawk)**
-    Plataforma web centralizada e intuitiva para catalogar e visualizar metadados de satélites gratuitos.
-    *   **Tecnologias:** React, TypeScript, APIs Geoespaciais, Mapbox.
-    *   **Destaque:** Mapa interativo que permite a comparação analítica de produtos geoespaciais para simplificar a escolha de dados para diversas aplicações.
+<!-- Badges gerados pelo Shields.io -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-*   **[Boitatá - HeatSentinel](https://github.com/hallwaytechgrupo/Boitata)**
-    Aplicação para monitoramento de áreas queimadas, focos de calor e risco de fogo no Brasil, inspirada no Programa Queimadas do INPE.
-    *   **Tecnologias:** React, Node.js, Visualização de Dados (Gráficos e Mapas).
-    *   **Destaque:** Ferramenta interativa para gestão ambiental e formulação de políticas públicas baseada em dados geoespaciais detalhados.
+<br><br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
 
-*   **[ABP Scrum Guide](https://github.com/hallwaytechgrupo/ABP-2024-2)**
-    Aplicação web instrutiva dedicada ao ensino e disseminação de metodologias ágeis (SCRUM) no contexto de desenvolvimento de software.
-    *   **Tecnologias:** React, TypeScript, Markdown.
-    *   **Destaque:** Central de instruções para facilitar a implementação de processos ágeis em times de tecnologia.
+</div>
 
----
+<br>
 
-### 🛠️ Habilidades Técnicas
+## 🚀 Projetos em Destaque
 
-*   **Linguagens:** TypeScript, JavaScript, C.
-*   **Frontend:** React, React Native (Expo), Styled Components.
-*   **Backend:** Node.js, Express.
-*   **IoT & Hardware:**  ESP32.
+Aqui estão os principais sistemas que venho desenvolvendo:
 
----
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hallwaytechgrupo/NexDose">💊 NexDose</a></h3>
+      <p>Sistema integrado com IoT focado na dispensação automatizada de medicamentos e no cuidado inteligente de idosos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hallwaytechgrupo/Boitata">🔥 Boitatá (HeatSentinel)</a></h3>
+      <p>Aplicação web interativa inspirada no INPE para monitoramento de áreas queimadas no Brasil. Utiliza dados geoespaciais para gerar mapas e gráficos focados na gestão ambiental.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MarioC3sar/PDM1_App_Scholar">🎓 App Scholar</a></h3>
+      <p>Solução otimizada com foco em gestão e acompanhamento acadêmico.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hallwaytechgrupo/SkyHawk">🛰️ SkyHawk (SatMetrics)</a></h3>
+      <p>Aplicação web avançada para visualização, análise e comparação de dados geoespaciais e de satélites.</p>
+    </td>
+  </tr>
+</table>
 
+<br>
 
+## 📚 Aprendizado Contínuo
 
-*   **GitHub:** [github.com/MarioC3sar](https://github.com/MarioC3sar)
-  
+Expandindo constantemente meus conhecimentos. Além das tecnologias de mercado, estudo ativamente arquitetura de computadores, internals de memória/processadores e lógica de baixo nível, tendo a obra *Code* de Charles Petzold como minha base teórica principal.
 
+<br>
+
+<div align="center">
+  <h3>📫 Como me encontrar</h3>
+  <a href="mailto:95mces@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/mario-cesar-98162a203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/MarioC3sar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
