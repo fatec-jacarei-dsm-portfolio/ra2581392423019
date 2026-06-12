@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atualmente no 4º semestre de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**. Tenho um background sólido com 2 anos de experiência em suporte e manutenção de TI, o que me deu uma visão profunda de como as coisas funcionam "por baixo dos panos". Gosto de unir o desenvolvimento moderno na web com os fundamentos e a arquitetura de hardware.
+Estudante de **Desenvolvimento de Software Multiplataforma na FATEC Jacareí**. Tenho um background sólido com 2 anos de experiência em suporte e manutenção de TI, o que me deu uma visão profunda de como as coisas funcionam "por baixo dos panos". Gosto de unir o desenvolvimento moderno na web com os fundamentos e a arquitetura de hardware.
 
 <div align="center">
 
